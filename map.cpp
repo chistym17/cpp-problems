@@ -29,7 +29,7 @@ int main()
 string s,t;
 cin>>s>>t;
 
-if(s.size()==1 && s!=t){
+if(s.size()==1){
    cout<<"false"<<endl;
 
 }
